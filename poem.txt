@@ -1,5 +1,6 @@
 HTE RAINBOW
 Green
+yellow
 Purple
 Pink
 Red 
