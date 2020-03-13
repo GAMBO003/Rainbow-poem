@@ -3,6 +3,7 @@ Green
 yellow
 Purple
 Pink
+Indigo
 Red 
 Blue
 these are the colours of rainbow
